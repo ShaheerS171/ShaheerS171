@@ -106,15 +106,7 @@ Deep Learning Mathematics · Gradient Descent · Neural Networks · Transformers
 
 ---
 
-## 🐍 Contribution Snake
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/ShaheerS171/ShaheerS171/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
-
-> **Setup note:** this animates only after you add the [Snake Action](https://github.com/Platane/snk) to your profile repo — a free GitHub Action that eats your contribution graph each night. Takes 2 minutes: create `.github/workflows/snake.yml` in your `ShaheerS171/ShaheerS171` repo using the workflow from that link, and it generates the SVG this image points to automatically.
-
----
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=ShaheerS171&style=for-the-badge&color=blueviolet"/>
