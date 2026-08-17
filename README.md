@@ -1,5 +1,8 @@
-<h1 align="center">Hi, I'm Shaheer 👋</h1>
-<h3 align="center">Computer & Information Systems Student · Building AI/ML Systems That Ship</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6D5BBA,100:8D58BF&height=220&section=header&text=Hi,%20I'm%20Shaheer%20👋&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20AI%20Systems%20That%20Actually%20Ship&descAlignY=55&descSize=18"/>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8D58BF&center=true&vCenter=true&width=650&lines=AI+%2F+ML+Engineer+in+the+making;Building+SYSSEARCH+%26+DBVoyager;LLMs+%7C+NLP+%7C+Financial+AI;Turning+research+into+working+software" alt="Typing SVG" />
+</p>
 
 <p align="center">
 I build intelligent software that solves real problems — from LLM-powered research automation to autonomous database agents. Focused on AI, ML, NLP, and full-stack engineering.
@@ -11,7 +14,7 @@ I build intelligent software that solves real problems — from LLM-powered rese
 <a href="mailto:shaheersajid665@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6D5BBA,100:8D58BF&height=3&section=header"/>
 
 ## About Me
 
@@ -103,8 +106,20 @@ Deep Learning Mathematics · Gradient Descent · Neural Networks · Transformers
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/ShaheerS171/ShaheerS171/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
+> **Setup note:** this animates only after you add the [Snake Action](https://github.com/Platane/snk) to your profile repo — a free GitHub Action that eats your contribution graph each night. Takes 2 minutes: create `.github/workflows/snake.yml` in your `ShaheerS171/ShaheerS171` repo using the workflow from that link, and it generates the SVG this image points to automatically.
+
+---
+
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=ShaheerS171&style=for-the-badge&color=blueviolet"/>
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8D58BF,100:6D5BBA&height=120&section=footer"/>
 
 <h3 align="center">⭐ Thanks for stopping by — always open to collaborating on interesting AI projects!</h3>
