@@ -1,72 +1,64 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Shaheer%20Sajid&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20NLP%20%26%20Applied%20Systems&descAlignY=58&descSize=17"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6D5BBA,100:8D58BF&height=220&section=header&text=Hi,%20I'm%20Shaheer%20👋&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20AI%20Systems%20That%20Actually%20Ship&descAlignY=55&descSize=18"/>
 
 <p align="center">
-  <a href="https://github.com/ShaheerS171"><img src="https://img.shields.io/badge/GitHub-ShaheerS171-181717?style=flat-square&logo=github"/></a>
-  <a href="https://linkedin.com/in/shaheer-sajid"><img src="https://img.shields.io/badge/LinkedIn-Shaheer%20Sajid-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:shaheersajid665@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-8B5CF6?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8D58BF&center=true&vCenter=true&width=650&lines=AI+%2F+ML+Engineer+in+the+making;Building+SYSSEARCH+%26+DBVoyager;LLMs+%7C+NLP+%7C+Financial+AI;Turning+research+into+working+software" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/status-actively%20building-3b82f6?style=flat-square"/>
-  <img src="https://img.shields.io/badge/focus-AI%20%7C%20NLP%20%7C%20Full%20Stack-3b82f6?style=flat-square"/>
+  <a href="https://github.com/ShaheerS171"><img src="https://img.shields.io/badge/GitHub-ShaheerS171-181717?style=for-the-badge&logo=github"/></a>
+  <a href="https://linkedin.com/in/shaheer-sajid"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/></a>
+  <a href="mailto:shaheersajid665@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6D5BBA,100:8D58BF&height=3&section=header"/>
+
+<br>
+
+## ⚡ About Me
+
+```python
+class Shaheer:
+    def __init__(self):
+        self.role = "CS Student · AI/ML Engineer"
+        self.focus = ["NLP", "LLM Systems", "Financial AI", "Full Stack"]
+        self.currently_building = ["SYSSEARCH", "DBVoyager"]
+        self.philosophy = "Ship real software, not just notebooks"
+```
+
+<br>
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,html,css,fastapi,pytorch,tensorflow,postgres,git,vscode,linux,vercel" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square"/>
 </p>
 
 <br>
 
-## Profile
-
-Computer & Information Systems student building applied AI systems — from LLM-powered research automation to autonomous database agents. I focus on turning research-grade ideas into software people can actually run, with an emphasis on NLP, financial AI, and developer tooling.
-
-<br>
-
-## Tech Stack
-
-<table>
-<tr>
-<td valign="top" width="33%">
-
-**Languages**
-<br>
-<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,html,css" />
-
-</td>
-<td valign="top" width="33%">
-
-**AI / ML**
-<br>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-<br><br>
-`Scikit-Learn` `HuggingFace` `LangChain` `NumPy` `Pandas`
-
-</td>
-<td valign="top" width="33%">
-
-**Infrastructure**
-<br>
-<img src="https://skillicons.dev/icons?i=fastapi,postgres,vercel,git,linux" />
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## Featured Projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### DBVoyager
-Autonomous PostgreSQL database intelligence platform. Handles backend optimization — connection pooling via Supabase's Supavisor, parallel query execution, TTL caching, SQL guardrails — with a Vercel-deployed frontend, powered by GPT-5.6 and Codex.
+### 🗄️ DBVoyager
+Autonomous PostgreSQL database intelligence platform. Connection pooling via Supabase's Supavisor, parallel query execution, TTL caching, and SQL guardrails — deployed on Vercel, powered by GPT-5.6 and Codex.
 
 `PostgreSQL` `Supabase` `Vercel` `GPT-5.6`
 
 </td>
 <td width="50%" valign="top">
 
-### SYSSEARCH
-Systematic review automation platform for medical research. Fetches, deduplicates, classifies, and screens academic literature from PubMed and OpenAlex via a multi-phase pipeline — PICO-based query builder, study design classifier, and a dual AI screening engine modeled on Cochrane methodology.
+### 🔎 SYSSEARCH
+Systematic review automation for medical research. Fetches, deduplicates, classifies, and screens literature from PubMed/OpenAlex via a PICO query builder, study design classifier, and dual AI screening engine modeled on Cochrane methodology.
 
 `Python` `PubMed API` `OpenAlex API` `DeepSeek`
 
@@ -75,18 +67,18 @@ Systematic review automation platform for medical research. Fetches, deduplicate
 <tr>
 <td width="50%" valign="top">
 
-### Git Conflict Arbitrator
-AI-powered Git merge conflict analyzer that explains conflicts in plain language and generates intelligent merge suggestions, with conflict visualization for learning-oriented debugging.
+### 🤖 Git Conflict Arbitrator
+AI-powered Git merge conflict analyzer — explains conflicts in plain language, generates merge suggestions, and visualizes the conflict for learning-oriented debugging.
 
 `FastAPI` `Mistral AI` `Gemini AI`
 
-📎 [Live Demo](https://shaheers171-git-conflict-arbitrator-app-515lqb.streamlit.app/) · [Repository](https://github.com/ShaheerS171/Git-Conflict-Arbitrator/)
+📎 [Live Demo](https://shaheers171-git-conflict-arbitrator-app-515lqb.streamlit.app/) · [Repo](https://github.com/ShaheerS171/Git-Conflict-Arbitrator/)
 
 </td>
 <td width="50%" valign="top">
 
-### Financial NLP & Stock Prediction
-Academic research project combining FinBERT fine-tuning, classical ML baselines, and LLM-generated explanations for stock movement prediction. Includes a custom `ExplanationVerifier` using NLI entailment, concept overlap, sentiment consistency, and temporal grounding.
+### 📈 Financial NLP & Stock Prediction
+FinBERT fine-tuning + classical ML baselines + LLM-generated explanations for stock movement prediction. Custom `ExplanationVerifier` using NLI entailment, concept overlap, sentiment consistency, and temporal grounding.
 
 `FinBERT` `LSTM` `LangChain`
 
@@ -96,39 +88,43 @@ Academic research project combining FinBERT fine-tuning, classical ML baselines,
 
 <br>
 
-## Currently Learning
+## 📚 Currently Learning
 
-Deep Learning Mathematics · Gradient Descent · Neural Networks · Transformers · PyTorch · LLM Systems · MLOps · System Design
-
-<br>
-
-## 2026 Goals
-
-- Ship production-grade AI applications end-to-end
-- Contribute meaningfully to open source
-- Publish machine learning research
-- Master deep learning fundamentals and MLOps
-- Design and deploy scalable AI systems
+`Deep Learning Math` `Gradient Descent` `Neural Networks` `Transformers` `PyTorch` `LLM Systems` `MLOps` `System Design`
 
 <br>
 
-## GitHub Activity
+## 🎯 2026 Goals
 
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ShaheerS171&show_icons=true&theme=default&hide_border=true&title_color=1a1a2e&icon_color=8B5CF6&text_color=333"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaheerS171&layout=compact&theme=default&hide_border=true&title_color=1a1a2e&text_color=333"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShaheerS171&theme=minimal&hide_border=true"/>
-</p>
-
-> **Note:** the widgets above are served by free, community-run APIs (`github-readme-stats`, `vercel.app`) and can occasionally fail to load due to rate limits or GitHub's caching. If a card doesn't render on your profile after a minute, reload the page — it usually resolves on its own. If it persists, the images can be swapped for a self-hosted instance.
+- 🚀 Ship production-grade AI applications end-to-end
+- 🌍 Contribute meaningfully to open source
+- 📄 Publish machine learning research
+- 🧠 Master deep learning fundamentals and MLOps
+- ⚙️ Design and deploy scalable AI systems
 
 <br>
 
----
+## 📊 GitHub Stats
 
 <p align="center">
-  <sub>Open to collaborating on AI, NLP, and applied research projects.</sub>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ShaheerS171&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaheerS171&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ShaheerS171&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShaheerS171&theme=tokyo-night&hide_border=true"/>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ShaheerS171&style=for-the-badge&color=8D58BF"/>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8D58BF,100:6D5BBA&height=120&section=footer"/>
+
+<h3 align="center">⭐ Always open to collaborating on AI, NLP, and applied research projects</h3>
